@@ -6,7 +6,7 @@ TSAI Privacy Policy
 - Server Specific: Current Roles,
 -
 - Data Use
-- The Collected Data may be used for specific functions of TSAI such as Commands
+- The Collected Data may be used for functions of TSAI Such as Commands,
 -
 - Data Storing
 - None of the Collected Data will be stored it is only Collected and used for the reqired purpose, It will not be Stored Afterwards.
