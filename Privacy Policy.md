@@ -10,7 +10,7 @@ TSAI Privacy Policy
 -
 - Data Storing
 - None of the Collected Data will be stored it is only Collected and used for the reqired purpose, It will not be Stored Afterwards.
-- Collected Information is Not Shared while being used.
+- Collected Data is Not Shared and kept Confidential.
 -
 The Privacy Policy may be changed at any time.
 By Using the TSAI Bot (App) you agree to its Privacy Policy.
