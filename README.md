@@ -1,3 +1,3 @@
-TSAI Bot Resources are found in this Repo, Such as TOS and Privacy Policy,
+Get TSAI Today: https://discord.com/oauth2/authorize?client_id=1081907490104549426
 
-Add TSAI Today: https://discord.com/oauth2/authorize?client_id=1081907490104549426
+TSAI Bot Resources such as TOS and Privacy Policy are found here.
