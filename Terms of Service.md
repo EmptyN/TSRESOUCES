@@ -12,7 +12,6 @@ Breaking any of Discord Terms of Service via the bot or one of its functions wil
 - We may always Restrict your Access to TSAI and its features at any time if our Development team deems it Necessary
 We cannot Gurantee that your account's access to TSAI may be restored if previously Restricted.
 Breaking any of Our Terms of Service may lead to a permanent ban on the TSAI Support Discord server and on using the bot!
+The Bot can and Will Leave your Discord server if the Developers Restrict your access to it, in the case of this contact the developers on the bot Support discord for more information.
 
 NOTE The Terms of service may be adjusted at any time, By using the TSAI Bot you agree to our Terms of Service.
-
-Dev Note: Relatively short TOS for now since the bot is still under heavy development may be refined and Adjusted a lot,
