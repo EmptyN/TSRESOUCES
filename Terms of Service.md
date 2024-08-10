@@ -21,3 +21,5 @@ TSAI And all our Services corresponding with it work under Discords Terms of Ser
 Any changes to our Terms of service apply at the time of update.
 By using our Service you agree to our Terms of Service, Privacy Policy and Rules.
 You have no excuse that you didnt know about our Terms of Service, Rules or Privacy Policy.
+
+Contact is possible via the TSAI Support Discord to access it use the bot.
