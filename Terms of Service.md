@@ -15,7 +15,7 @@ any Abuse or Misuse of its features is not prohibited and will get your access t
 it may also lead to Legal Action depending on the Severity of the unallowed access.
 
 2 Additional,
-2.1 Discord % Discords Terms of Service,
+2.1 Discord & Discords Terms of Service,
 TSAI And all our Services corresponding with it work under Discords Terms of Service breaking them will result in a restriction to our service.
 2.2 Terms of Service Changes,
 Any changes to our Terms of service apply at the time of update.
