@@ -1,6 +1,7 @@
 TSAI Terms of Service (TOS)
 
 0 General,
+0.1 Association & Naming,
 "TSAI" Always is reffering to the discord Bot.
 "TSAI" or also reffered to as "Tenpa System And Integration" is not registered in the commercial register and does not belong to any company.
 TSAI is not associated with "Discord Inc." itself, TSAI Is run on the Discord Platform but does not own or Claim to own any Copyrighted Resources on it.
