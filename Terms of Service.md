@@ -12,7 +12,7 @@ TSAI and everything Corresponding with it, is only to be used in the proper inte
 any Abuse or Misuse of its features is not prohibited and will get your access to TSAI Restricted!
 ### 1.2 Illegal Entry,
 "Illegal Entry" reffering to gaining access to TSAI, or any of Its Resources without permission is not allowed and will lead to restrictions to our service,
-it will also lead to Legal Action.
+Gaining access to any User Data will lead to Legal Action.
 
 # 2 Additional,
 ### 2.1 Discord & Discords Terms of Service,
