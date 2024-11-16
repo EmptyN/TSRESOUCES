@@ -1,12 +1,12 @@
 # TSAI Privacy Policy
 
 ## Contains:
-General Information (0),
-Data Acquired (1),
-Data Use (2),
-Data Stored (3),
-Security of Data (4),
-Disclosure of Data (5),
+#### General Information (0),
+#### Data Acquired (1),
+#### Data Use (2),
+#### Data Stored (3),
+#### Security of Data (4),
+#### Disclosure of Data (5),
 
 # 0 General Information,
 "TSAI" Always reffers to the Discord App(Bot) and The Associated Service Provider (Development Team).
