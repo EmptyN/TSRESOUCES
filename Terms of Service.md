@@ -19,8 +19,8 @@ Gaining access to any User Data will lead to Legal Action.
 TSAI And all our Services corresponding with it work under Discords Terms of Service breaking them will result in a restriction to our service.
 ### 2.2 Terms of Service Changes,
 #### Any changes to our Terms of service apply at the time of update.
-#### By using our Service you agree to our Terms of Service, Privacy Policy and Rules.
-#### Any Updates on our Terms of Service, Privary Politcy or Rules are posted in the [TSAI-Community](https://discord.gg/GsDXseZpxf).
-#### You have no excuse that you didnt know about our Terms of Service, Privacy Policy or Rules.
+#### By using our Service you agree to our Terms of Service and Privacy Policy.
+#### Any Updates on our Terms of Service or Privary Politcy are posted in the [TSAI-Community](https://discord.gg/GsDXseZpxf).
+#### You have no excuse that you didnt know about our Terms of Service or Privacy Policy.
 
 Contact is possible via the [TSAI-Community](https://discord.gg/GsDXseZpxf)
