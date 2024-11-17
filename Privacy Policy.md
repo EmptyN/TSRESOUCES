@@ -7,6 +7,7 @@
 #### Data Stored (3),
 #### Security of Data (4),
 #### Disclosure of Data (5),
+#### Data Control (6), 
 
 # 0 General Information,
 "TSAI" Always reffers to the Discord App(Bot) and The Associated Service Provider (Development Team).
@@ -46,6 +47,12 @@ Stored Data may be Disclosed:
 #### To Protect and defend our Services.
 #### To prevent or investigate possible wrongdoing in connection with the Service.
 #### To protect the personal safety of users of the Service or the public.
+
+# 6 Data Control,
+#### Our Service offers you:
+The Right to Request all Personal Data we have stored of you,
+The Right to Have all Your Personal Data deleted from our Service.
+(Verification is required before Data can be Provided)
 
 Any Updates on Privacy Policy will be Announced on the [TSAI-Community](https://discord.gg/GsDXseZpxf)
 Contact is Possible in the [TSAI-Community](https://discord.gg/GsDXseZpxf)
