@@ -49,9 +49,9 @@ Stored Data may be Disclosed:
 #### To protect the personal safety of users of the Service or the public.
 
 # 6 Data Control,
-### I have Concerns with the service:
+### I have Concerns with the service.
 We will Try to Resolve any Data processing or security Concerns, Please Contact us via the [Support Server TSAI-Community](https://discord.gg/GsDXseZpxf).
-### I wanna Request my Data / Have it Removed:
+### How do i Request my Data / Have it Removed?
 You have the Right to Request your Data or Have it Removed, Please join the [Support Server TSAI-Community](https://discord.gg/GsDXseZpxf) to get into support contact,  
 we are unable to help via External channels, as we would not be able to reliably verify your identity.
 #### We will handle your Request within 30 days of it being logged.
