@@ -49,12 +49,13 @@ Stored Data may be Disclosed:
 #### To protect the personal safety of users of the Service or the public.
 
 # 6 Data Control,
-### Our Service offers you:
-The Right to Request all Personal Data we have stored of you,
-The Right to Have all Your Personal Data deleted from our Service.
-(Verification is required before Data can be Provided or Deleted)
+### I have Concerns with the service:
+We will Try to Resolve any Data processing or security Concerns, Please Contact us via the [Support Server TSAI-Community](https://discord.gg/GsDXseZpxf).
+### I wanna Request my Data / Have it Removed:
+You have the Right to Request your Data or Have it Removed, Please join the [Support Server TSAI-Community](https://discord.gg/GsDXseZpxf) to get into support contact,  
+we are unable to help via External channels, as we would not be able to reliably verify your identity.
+#### We will handle your Request within 30 days of it being logged.
 
 Any Updates on Privacy Policy will be Announced on the [TSAI-Community](https://discord.gg/GsDXseZpxf)
-Contact is Possible via the [TSAI-Community](https://discord.gg/GsDXseZpxf)
 #### [Terms of Service](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md)
 
