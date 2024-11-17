@@ -56,5 +56,5 @@ The Right to Have all Your Personal Data deleted from our Service.
 
 Any Updates on Privacy Policy will be Announced on the [TSAI-Community](https://discord.gg/GsDXseZpxf)
 Contact is Possible via the [TSAI-Community](https://discord.gg/GsDXseZpxf)
-#### [ToS](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md)
+#### [Terms of Service](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md)
 
