@@ -24,7 +24,7 @@ Email Associated with Discord Account.
 
 # 2 Data Use,
 All Acquired Data is strictly used to Provide and Operate our Services.
-Acquired Data may be Used to Improove our Services.
+Acquired Data may be Used to Improve our Services.
 
 # 3 Data Stored,
 ### 3.1 Discord Account: 
