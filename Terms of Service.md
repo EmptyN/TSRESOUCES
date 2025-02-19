@@ -6,7 +6,7 @@
 "TSAI" or also reffered to as "Tenpa System And Integration" is not registered in the commercial register and does not belong to any company.
 TSAI is not associated with "Discord Inc." itself, TSAI Is run on the Discord Platform but does not own or Claim to own any Copyrighted Resources on it.
 
-# 1 Usage,
+# 1 Usage Guidelines,
 ### 1.1 Abuse / Misuse,
 TSAI and everything Corresponding with it, is only to be used in the proper intended way,
 any Abuse or Misuse of its features is not prohibited and will get your access to TSAI Restricted!
@@ -23,4 +23,5 @@ TSAI And all our Services corresponding with it work under Discords Terms of Ser
 #### Any Updates on our [Terms of Service](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md) or [Privacy Politcy](https://github.com/EmptyN/TSRESOUCES/blob/main/Privacy%20Policy.md) are posted in the [TSAI-Community](https://discord.gg/GsDXseZpxf).
 #### You have no excuse that you didnt know about our [Terms of Service](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md) or [Privacy Policy](https://github.com/EmptyN/TSRESOUCES/blob/main/Privacy%20Policy.md).
 
-Contact is possible via the [TSAI-Community](https://discord.gg/GsDXseZpxf)
+Contact is Only possible via the [Support Server TSAI-Community](https://discord.gg/GsDXseZpxf)
+we are unable to help via External channels, as we would not be able to reliably verify your identity.
