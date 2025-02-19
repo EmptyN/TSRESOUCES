@@ -24,4 +24,4 @@ TSAI And all our Services corresponding with it work under Discords Terms of Ser
 #### You have no excuse that you didnt know about our [Terms of Service](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md) or [Privacy Policy](https://github.com/EmptyN/TSRESOUCES/blob/main/Privacy%20Policy.md).
 
 Contact is Only possible via the [Support Server TSAI-Community](https://discord.gg/GsDXseZpxf)
-we are unable to help via External channels, as we would not be able to reliably verify your identity.
+we are unable to help via External channels.
