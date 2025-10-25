@@ -1,4 +1,4 @@
-# TSauno Terms of Service (ToS)
+# Tsauno Terms of Service (ToS)
 
 # 0 General,
 ### 0.1 Association & Naming,
