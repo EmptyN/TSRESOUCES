@@ -2,7 +2,7 @@
 
 # 0 General,
 ### 0.1 Association & Naming,
-"Tsauno" Always is reffering to the discord Bot.
+"Tsauno" Is always reffering to the discord Bot.
 "Tsauno" is not registered in the commercial register and does not belong to any company.
 Tsauno is not associated with "Discord Inc." itself, Tsauno Is run on the Discord Platform but does not own or Claim to own any Copyrighted Resources on it.
 
