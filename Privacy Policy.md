@@ -1,4 +1,4 @@
-# TSAI Privacy Policy
+# Tsauno Privacy Policy
 
 ## Contains:
 #### General Information (0),
@@ -10,7 +10,7 @@
 #### Data Control (6), 
 
 # 0 General Information,
-"TSAI" Always reffers to the Discord App(Bot) and The Associated Service Provider (Development Team).
+"Tsauno" Always reffers to the Discord App(Bot) and The Associated Service Provider (Development Team).
 
 # 1 Data Acquired,
 ### 1.1 Discord Account: 
@@ -50,12 +50,12 @@ Stored Data may be Disclosed:
 
 # 6 Data Control,
 ### I have Concerns with the service.
-We will Try to Resolve any Data processing or security Concerns, Please Contact us via the [Support Server TSAI-Community](https://discord.gg/GsDXseZpxf).
+We will Try to Resolve any Data processing or security Concerns, Please Contact us via the [Support Server Tsauno-Community](https://discord.gg/GsDXseZpxf).
 ### How do i Request my Data / Have it Removed?
-You have the Right to Request your Data or Have it Removed, Please join the [Support Server TSAI-Community](https://discord.gg/GsDXseZpxf) to get into support contact,  
+You have the Right to Request your Data or Have it Removed, Please join the [Support Server Tsauno-Community](https://discord.gg/GsDXseZpxf) to get into support contact,  
 we are unable to help via External channels, as we would not be able to reliably verify your identity.
 #### We will handle your Request within 30 days of it being logged.
 
-Any Updates on Privacy Policy will be Announced on the [TSAI-Community](https://discord.gg/GsDXseZpxf)
+Any Updates on Privacy Policy will be Announced on the [Tsauno-Community](https://discord.gg/GsDXseZpxf)
 #### [Terms of Service](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md)
 
