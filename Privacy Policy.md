@@ -35,7 +35,7 @@ This Data is Never stored past its Intended use (E.g Showing Server Information)
 ### 3.3 Personal Data: 
 This Data is Stored until you Disconnect your Account from our Service.
 No Logs or Backups will be Stored.
-#### Data may be stored or processed outside your country of residence.  This may include servers located in Germany & Netherlands. Where data is transferred outside of Those Countries we implement safeguards such as SCC.
+#### Data may be stored or processed outside your country of residence. This may include servers located in Germany & Netherlands. Where data is transferred outside of Those Countries we implement safeguards such as SCC.
 
 # 4 Security of Data, 
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. 
