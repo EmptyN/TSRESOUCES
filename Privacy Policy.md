@@ -13,15 +13,15 @@
 "Tsauno" Always reffers to the Discord App(Bot) and The Associated Service Provider (Development Team).
 
 # 1 Data Acquired,
-### 1.1 Discord Account: 
+### 1.1 Discord Account:
 Name, Display Name, Account Age, Online Status, Current Activity, Profile Picture & Banner, About me.
-### 1.2 Server Specific: 
+### 1.2 Server Specific:
 Roles (User & Server), Server Member count, Server Age, Server Creator, Server Banner & Logo.
 ### 1.3 Personal Data: 
 Email Associated with Discord Account.
 ### 1.4 When is my Data Acqired? 
-#### All Data listed in 1.1 to 1.2 may be Acquired Regularily and at all times.
-#### All Data listed in 1.3 is Acquired only after the User Opts into our Special Services E.g Connecting your Discord account to TSAI.
+#### All Data listed in 1.1 to 1.2 may be Acquired Regularily and at all times for: legitimate interest (to provide bot functions).
+#### All Data listed in 1.3 is Acquired only after the User Opts into our Special Services Via their consent, E.g Connecting your Discord account to TSAI.
 
 # 2 Data Use,
 All Acquired Data is strictly used to Provide and Operate our Services.
@@ -34,6 +34,7 @@ This Data is Never stored past its Intended use (E.g Executing a Command).
 This Data is Never stored past its Intended use (E.g Showing Server Information).
 ### 3.3 Personal Data: 
 This Data is Stored until you Disconnect your Account from our Service.
+No Logs or Backups will be Stored.
 #### 3.4 Data may be stored outside of Your Operating area (State/Country).
 
 # 4 Security of Data, 
@@ -41,6 +42,7 @@ The security of your data is important to us but remember that no method of tran
 While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
 # 5 Disclosure of Data,
+We Will only Disclose any Data if Legally Required.
 Stored Data may be Disclosed:
 #### To comply with a legal obligation.
 #### To protect against legal liability.
@@ -51,10 +53,14 @@ Stored Data may be Disclosed:
 # 6 Data Control,
 ### I have Concerns with the service.
 We will Try to Resolve any Data processing or security Concerns, Please Contact us via the [Support Server Tsauno-Community](https://discord.gg/GsDXseZpxf).
-### How do i Request my Data / Have it Removed?
+### How do i Request my Data (Copy) / Have it Removed?
 You have the Right to Request your Data or Have it Removed, Please join the [Support Server Tsauno-Community](https://discord.gg/GsDXseZpxf) to get into support contact,  
 we are unable to help via External channels, as we would not be able to reliably verify your identity.
 #### We will handle your Request within 30 days of it being logged.
+### Right to Rectification  
+Because all account and server data is directly linked to Discord, any corrections must be made through Discord itself. 
+Once updated in Discord, our service automatically reflects the changes. 
+This ensures that only verified account owners can modify their data and prevents fraudulent requests.
 
 Any Updates on Privacy Policy will be Announced on the [Tsauno-Community](https://discord.gg/GsDXseZpxf)
 #### [Terms of Service](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md)
