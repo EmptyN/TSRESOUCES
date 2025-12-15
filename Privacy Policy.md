@@ -21,7 +21,7 @@ Roles (User & Server), Server Member count, Server Age, Server Creator, Server B
 Email Associated with Discord Account.
 ### 1.4 When is my Data Acqired? 
 #### All Data listed in 1.1 to 1.2 may be Acquired Regularily and at all times for: legitimate interest (to provide bot functions).
-#### All Data listed in 1.3 is Acquired only after the User Opts into our Special Services Via their consent, E.g Connecting your Discord account to TSAI.
+#### All Data listed in 1.3 is Acquired only after the User Opts into our Special Services Via their consent, E.g Connecting your Discord account to Tsauno.
 
 # 2 Data Use,
 All Acquired Data is strictly used to Provide and Operate our Services.
