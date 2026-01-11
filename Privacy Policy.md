@@ -63,10 +63,10 @@ All acquired data is used to provide and operate the bot features described (tic
 - Persisted: Entries added by server administrators (tracked identifiers/links, target channel IDs and optional ping roles) are stored so the bot can continue to post notifications as configured.  
   (Storage reason: Consent — administrators explicitly opt in by adding these entries.)
 
-### 3.4 Leveling and participation data:
+### 3.4 Leveling data:
 - Persisted: Minimal rows linking a user ID to their progress/state in guilds that have leveling enabled (used to compute ranks, leaderboards and role assignment).  
   (Storage reason: Legitimate interest / Contract performance — required to deliver the leveling feature.)
-- These records are retained until removed by an admin action (e.g., deletion command) or other explicit removal.
+- These records are retained until requested to be Removed.
 
 ### 3.5 Operational logs:
 - Persisted: Short‑lived diagnostic logs (errors, stack traces, limited identifiers) may be kept for debugging and abuse prevention. These logs are restricted and used only for operational purposes.  
