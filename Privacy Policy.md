@@ -97,5 +97,6 @@ You have the right to request your data or have it removed. Please join the [Sup
 ### Right to Rectification  
 Because account and server data are linked to Discord, corrections to Discord account fields must be made through Discord itself. Once updated in Discord, the service will reflect those changes automatically. This ensures only verified account owners can modify their data and prevents fraudulent requests.
 
+#### By Using Tsauno (or Being part of a Discord Server Using Tsauno) you agree to This Privacy Policy and The Terms of Service and have no Excuse of not being Informed.
 Any updates to the Privacy Policy will be announced on the [Tsauno Community](https://discord.gg/GsDXseZpxf) server.  
 #### [Terms of Service](https://github.com/EmptyN/TSRESOUCES/blob/main/Terms%20of%20Service.md)
